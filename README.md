@@ -2,6 +2,16 @@
 
 https://wueww.de/
 
+Dieses Github enthält Folien und Texte zu den Veranstaltungen.
+
+Das Format ist unter Unterordner der Art /2020/Datum/Veranstalter-Titel/ aufgeteilt.
+
+Beispiel
+
+/2020/19-10-2020/Thilo-Röhl-Home-Office-aber-sicher/readme.md
+
+
+
 App für die Veranstaltungen : https://app.wueww.de
 
 
