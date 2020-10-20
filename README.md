@@ -21,7 +21,7 @@ Beispiel
 
 WueWW 2020 – unser Team
 
-Ute Mündlein, Gunter Schunk 
+Ute Mündlein, Gunther Schunk 
 
 Annette Weißenberger: Grafik-Design
  
