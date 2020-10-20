@@ -2,9 +2,10 @@
 
 https://wueww.de/
 
-Dieses Github enthält Folien und Texte zu den Veranstaltungen.
+Dieses Github enthält Folien und Texte zu den Veranstaltungen die die Veranstalter freigegeben haben.
 
-Das Format ist unter Unterordner der Art /2020/Datum/Veranstalter-Titel/ aufgeteilt.
+
+Die Struktur des Githubs ist in unter Unterordner der Art /2020/Datum/Veranstalter-Titel/ aufgeteilt.
 
 Beispiel
 
