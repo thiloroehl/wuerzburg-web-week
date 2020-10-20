@@ -2,7 +2,10 @@
 
 https://wueww.de/
 
-Dieses Github enthält Folien und Texte zu den Veranstaltungen, die von den Veranstaltern für dieses Github freigegeben haben. Das Copyright bleibt bei den jeweiligen Erstellern, bei weiterer Verwendung - auch auszugsweise bitte dort nachfragen.
+App für die Veranstaltungen : https://app.wueww.de
+
+
+Dieses Github enthält Folien und Texte zu den Veranstaltungen, die von den Veranstaltern für dieses Github freigegeben haben. Das Copyright bleibt bei den jeweiligen Erstellern, bei weiterer Verwendung - auch auszugsweise - bitte dort nachfragen.
 
 Die Struktur des Githubs ist in unter Unterordner der Art /2020/Datum/Veranstalter-Titel/ aufgeteilt.
 
@@ -12,7 +15,7 @@ Beispiel
 
 
 
-App für die Veranstaltungen : https://app.wueww.de
+
 
 
 
